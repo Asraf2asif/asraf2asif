@@ -4,7 +4,8 @@
 
 Welcome to my GitHub profile! I’m a dedicated AI developer with a passion for transforming ideas into reality through cutting-edge technologies like GPT, LangChain, Streamlit, Vector DBs, Python, and JavaScript. My mission is to create fast, user-friendly, and feature-rich applications that not only meet but exceed client expectations.
 
-* * *
+* * 
+*
 
 # ⭐ Client Testimonials
 
@@ -30,7 +31,8 @@ Welcome to my GitHub profile! I’m a dedicated AI developer with a passion for 
 
 _Read more reviews on my [Fiverr Profile](https://www.fiverr.com/asraf2asif_fvrr)._
 
-* * *
+* * 
+*
 
 # 🛠️ Skills & Expertise
 
@@ -57,7 +59,8 @@ As an AI developer, I bring a diverse range of skills, allowing me to deliver ro
 - **Prompt Engineering**: Skilled in crafting effective prompts for GPT-4o, Gemini, and Claude AI.
 - **AI Art**: Exploring the creative side of AI through generative art, producing unique and visually captivating pieces.
 
-* * *
+* * 
+*
 
 # 🔭 What I'm Working On:
 - **Advanced AI Chatbots**: Developing sophisticated chatbots with seamless UX design.
@@ -84,7 +87,3 @@ As an AI developer, I bring a diverse range of skills, allowing me to deliver ro
 - [Email](mailto:asraf@example.com)
 - [Fiverr Profile](https://www.fiverr.com/asraf2asif_fvrr)
 - [LinkedIn](https://www.linkedin.com/in/asraf-asif/)
-
-# 😄 Pronouns: He/Him
-
-# ⚡ Fun Fact: I thrive on challenging projects that push the boundaries of what's possible in AI.
