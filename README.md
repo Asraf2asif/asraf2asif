@@ -78,6 +78,6 @@ I'm always eager to collaborate on projects that push the boundaries of current 
 <br/>
 
 # 📫 How to Reach Me:
-- [Email](mailto:asraf@example.com)
+- [Email](mailto:asraf2asif@gmail.com)
 - [Fiverr Profile](https://www.fiverr.com/asraf2asif_fvrr)
-- [LinkedIn](https://www.linkedin.com/in/asraf-asif/)
+- [LinkedIn](https://www.linkedin.com/in/asraf2asif)
