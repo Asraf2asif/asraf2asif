@@ -4,8 +4,7 @@
 
 Welcome to my GitHub profile! I’m a dedicated AI developer with a passion for transforming ideas into reality through cutting-edge technologies like GPT, LangChain, Streamlit, Vector DBs, Python, and JavaScript. My mission is to create fast, user-friendly, and feature-rich applications that not only meet but exceed client expectations.
 
-* * 
-*
+<br/>
 
 # ⭐ Client Testimonials
 
@@ -31,8 +30,7 @@ Welcome to my GitHub profile! I’m a dedicated AI developer with a passion for 
 
 _Read more reviews on my [Fiverr Profile](https://www.fiverr.com/asraf2asif_fvrr)._
 
-* * 
-*
+<br/>
 
 # 🛠️ Skills & Expertise
 
@@ -59,29 +57,38 @@ As an AI developer, I bring a diverse range of skills, allowing me to deliver ro
 - **Prompt Engineering**: Skilled in crafting effective prompts for GPT-4o, Gemini, and Claude AI.
 - **AI Art**: Exploring the creative side of AI through generative art, producing unique and visually captivating pieces.
 
-* * 
-*
+<br/>
 
 # 🔭 What I'm Working On:
 - **Advanced AI Chatbots**: Developing sophisticated chatbots with seamless UX design.
 - **AI Model Fine-Tuning**: Integrating and fine-tuning GPT-4o, Gemini, and Claude AI models for specialized applications.
 - **AI-Powered Applications**: Building innovative applications using LangChain, Streamlit, and other advanced AI tools.
 
+<br/>
+
 # 🌱 What I'm Learning:
 - **AI Specializations**: Deepening expertise in RAG, AI Agents, Vector Databases, and Chainlit.
 - **AI Model Fine-Tuning**: Experimenting with various AI tools and fine-tuning techniques.
+
+<br/>
 
 # 👯 I'm Looking to Collaborate On:
 - **Innovative AI Projects**: Collaborations that push the boundaries of current AI technology.
 - **Open-Source AI Tools**: Projects that make complex algorithms accessible to everyone.
 
+<br/>
+
 # 🤔 I'm Looking for Help With:
 - **AI Trends & Technologies**: Expanding my knowledge in the latest AI trends and technologies.
+
+<br/>
 
 # 💬 Feel Free to Ask Me About:
 - **AI Development**: Creating cutting-edge AI applications.
 - **Chatbot Solutions**: Developing chatbots with GPT-4o, Gemini, and Claude AI.
 - **AI Model Fine-Tuning**: Fine-tuning models, working with RAG, AI Agents, and Vector Databases.
+
+<br/>
 
 # 📫 How to Reach Me:
 - [Email](mailto:asraf@example.com)
