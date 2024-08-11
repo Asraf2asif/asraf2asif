@@ -34,6 +34,8 @@ Welcome to my GitHub profile! I'm a passionate AI developer committed to transfo
 
 ⚡ **Fun fact**: I thrive on challenging projects that push the boundaries of what's possible in AI.
 
+---
+
 # 🛠️ Skills & Expertise
 
 As an AI developer, I bring a wide array of skills to the table, specializing in creating robust AI solutions. Here’s a snapshot of my technical expertise:
@@ -58,6 +60,8 @@ As an AI developer, I bring a wide array of skills to the table, specializing in
 ## **Additional Skills**
 - **Prompt Engineering**: Crafting effective prompts for GPT-4o, Gemini, and Claude AI.
 - **AI Art**: Exploring the intersection of AI and creativity through generative AI art, creating unique and visually striking pieces.
+
+---
 
 # ⭐ Client Testimonials
 
