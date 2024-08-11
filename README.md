@@ -1,6 +1,4 @@
-<br/>
-
-# Hi, I'm Asif 👋
+# 👋 Hi, I'm Asif
 
 ### 🚀 AI Developer | Level 1 Seller on Fiverr | Full-Stack Enthusiast
 
