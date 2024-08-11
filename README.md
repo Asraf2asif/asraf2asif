@@ -1,4 +1,6 @@
-# Hi, I'm Asraful Alam Asif 👋
+<br/>
+
+# Hi, I'm Asif 👋
 
 ### 🚀 AI Developer | Level 1 Seller on Fiverr | Full-Stack Enthusiast
 
@@ -63,14 +65,14 @@ As an AI developer, I bring a diverse range of skills, allowing me to deliver ro
 
 I'm always eager to collaborate on projects that push the boundaries of current AI technology and make complex algorithms accessible to everyone. Whether it's developing cutting-edge AI applications, fine-tuning models, or exploring the latest trends and technologies, I'm here to contribute and learn.
 
-### 👯 **Looking to Collaborate On:**
+### 💡 **Looking to Collaborate On:**
 - **Innovative AI Projects**: Partnerships that drive advancements in AI and machine learning.
 - **Open-Source AI Tools**: Creating tools that democratize AI, making it easier for developers and non-experts alike.
 
-### 🤔 **Looking for Help With:**
+### 🧠 **Looking for Help With:**
 - **AI Trends & Technologies**: Expanding my knowledge and staying at the forefront of AI innovations.
   
-### 💬 **Feel Free to Ask Me About:**
+### 🛠️ **Feel Free to Ask Me About:**
 - **AI Development**: From ideation to execution, let's discuss how to build state-of-the-art AI solutions.
 - **Chatbot Solutions**: Specializing in chatbots powered by GPT-4o, Gemini, and Claude AI.
 - **AI Model Fine-Tuning**: Expertise in refining AI models, including RAG, AI Agents, and Vector Databases.
@@ -78,7 +80,9 @@ I'm always eager to collaborate on projects that push the boundaries of current 
 <br/>
 
 # 📫 How to Reach Me
+
 I’m always eager to collaborate on exciting projects, though I keep a busy schedule. If you’re looking to bring your ideas to life with custom AI solutions, here’s how you can get in touch:
+
 - **Fiverr**: [Work with Me on Fiverr](https://www.fiverr.com/asraf2asif_fvrr) – Let’s turn your vision into reality with tailored AI solutions.
 - **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/asraf2asif/) – Let’s expand our professional networks.
 - **Email**: [asraf2asif@gmail.com](mailto:asraf2asif@gmail.com) – For inquiries and direct communication.
@@ -87,3 +91,4 @@ I’m always eager to collaborate on exciting projects, though I keep a busy sch
 
 ### 🚀 **I look forward to collaborating on your impactful projects!** ✨
 
+<br/>
