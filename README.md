@@ -51,7 +51,7 @@ As an AI developer, I bring a wide array of skills to the table, specializing in
 - **Streamlit**: Proficient in building AI applications with Streamlit or Chainlit, enhancing model performance and user interaction.
 
 ## **Data Handling & Analysis**
-- **Vector Databases (ChromaDB)**: Experience in managing and querying large datasets for AI applications.
+- **Vector Databases**: Experience in managing and querying large datasets for AI applications.
 - **Data Visualization**: Creating insightful visualizations to represent complex data patterns.
 
 ## **Web Development**
