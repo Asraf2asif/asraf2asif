@@ -2,7 +2,7 @@
 
 ### 🚀 AI Developer | Level 1 Seller on Fiverr | Full-Stack Enthusiast
 
-Welcome to my GitHub profile! I’m a dedicated AI developer with a passion for transforming ideas into reality through cutting-edge technologies like GPT, LangChain, Streamlit, Vector DBs, Python, and JavaScript. My mission is to create fast, user-friendly, and feature-rich applications that not only meet but exceed client expectations.
+Welcome to my GitHub profile! I’m a dedicated AI developer with a passion for transforming ideas into reality through cutting-edge technologies like GPT, LangChain, Streamlit, Vector DBs, Python, and JavaScript. My mission is to create fast, user-friendly, and feature-rich applications that not only meet but exceed my client expectations.
 
 <br/>
 
@@ -80,8 +80,8 @@ I'm always eager to collaborate on projects that push the boundaries of current 
 # 📫 How to Reach Me
 I’m always eager to collaborate on exciting projects, though I keep a busy schedule. If you’re looking to bring your ideas to life with custom AI solutions, here’s how you can get in touch:
 - **Fiverr**: [Work with Me on Fiverr](https://www.fiverr.com/asraf2asif_fvrr) – Let’s turn your vision into reality with tailored AI solutions.
-- **Email**: [asraf2asif@gmail.com](mailto:asraf2asif@gmail.com) – For inquiries and direct communication.
 - **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/asraf2asif/) – Let’s expand our professional networks.
+- **Email**: [asraf2asif@gmail.com](mailto:asraf2asif@gmail.com) – For inquiries and direct communication.
 
 <br/>
 
