@@ -9,11 +9,11 @@ Welcome to my GitHub profile! I’m a dedicated AI developer with a passion for 
 # ⭐ Client Testimonials
 
 ### 1. **"Excellent AI Development"**
-> "Asraf delivered an exceptional AI development project that exceeded my expectations. The final deliverable was flawless, reflecting his keen attention to detail. His responsiveness and communication were outstanding throughout the process. Highly recommended!"  
+> "I had the pleasure of working with Asraf, and I couldn't be more impressed with his service. He was incredibly thorough and proactive, always suggesting improvements to enhance the final product. Despite my last-minute requirement, Asraf utilized his expertise and dedication to accommodate my needs seamlessly. His professionalism and attention to detail were exceptional. Highly recommended!"  
 > — _zaldy_nuque, United States_
 
 ### 2. **"Great Job Solving Code Issues"**
-> "Asraf did a great job and solved every code issue. He was quick, professional, and highly skilled. I couldn't be more satisfied with the results."  
+> "Asraf did a great job and solved every code issue."  
 > — _traineefy, Germany_
 
 ### 3. **"Organized and Timely Delivery"**
@@ -21,11 +21,11 @@ Welcome to my GitHub profile! I’m a dedicated AI developer with a passion for 
 > — _samadrita96, United Kingdom_
 
 ### 4. **"Superb Execution Under Tight Budget"**
-> "Asraf worked fast and professionally. He understood the assignment and delivered as requested. The budget was tight; nonetheless, he performed exceptionally. I wholeheartedly recommend him and hope to work with him again in the future."  
+> "Asraf worked fast and professional. He understood the assignment and delivered as requested. The budget was tight, none the less he performed exceptionally. I wholeheartedly recommend him and hope to work with him gain in the future."  
 > — _fabianlechner, Germany_
 
 ### 5. **"Top-notch AI Services"**
-> "Great work done by the seller. Very fast and responsive. Helped me deliver a Streamlit App with OpenAI integration to fast-track data mapping for business analysis purposes. I will recommend his service to anyone who is seeking Generative AI service."  
+> "Great work done by the seller. Very fast and responsive. Helped me deliver a Streamlit App with Openai integration to fast-track data mapping for business analysis purposes. I will recommend his service to anyone who is seeking Generative AI service."  
 > — _alankar_gupta, India_
 
 _Read more reviews on my [Fiverr Profile](https://www.fiverr.com/asraf2asif_fvrr)._
