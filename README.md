@@ -37,6 +37,33 @@ Welcome to my GitHub profile! I'm a passionate AI developer committed to transfo
 * *
 * *
 
+# ⭐ Client Testimonials
+
+### 1. **"Excellent AI Development"**
+> "Asraf delivered an exceptional AI development project that exceeded my expectations. The final deliverable was flawless, reflecting his keen attention to detail. His responsiveness and communication were outstanding throughout the process. Highly recommended!"  
+> — _zaldy_nuque, United States_
+
+### 2. **"Great Job Solving Code Issues"**
+> "Asraf did a great job and solved every code issue. He was quick, professional, and highly skilled. I couldn't be more satisfied with the results."  
+> — _traineefy, Germany_
+
+### 3. **"Organized and Timely Delivery"**
+> "It was great working with AsrafAsif. Always on-time delivery, understands the requirements well, quick response to queries, flexible and polite. Very organized way of working and gives his best, does not shy away from integrating new features."  
+> — _samadrita96, United Kingdom_
+
+### 4. **"Superb Execution Under Tight Budget"**
+> "Asraf worked fast and professionally. He understood the assignment and delivered as requested. The budget was tight; nonetheless, he performed exceptionally. I wholeheartedly recommend him and hope to work with him again in the future."  
+> — _fabianlechner, Germany_
+
+### 5. **"Top-notch AI Services"**
+> "Great work done by the seller. Very fast and responsive. Helped me deliver a Streamlit App with OpenAI integration to fast-track data mapping for business analysis purposes. I will recommend his service to anyone who is seeking Generative AI service."  
+> — _alankar_gupta, India_
+
+Read more reviews on my [Fiverr Profile](https://www.fiverr.com/asraf2asif_fvrr).
+
+* *
+* *
+
 # 🛠️ Skills & Expertise
 
 As an AI developer, I bring a wide array of skills to the table, specializing in creating robust AI solutions. Here’s a snapshot of my technical expertise:
@@ -62,29 +89,4 @@ As an AI developer, I bring a wide array of skills to the table, specializing in
 - **Prompt Engineering**: Crafting effective prompts for GPT-4o, Gemini, and Claude AI.
 - **AI Art**: Exploring the intersection of AI and creativity through generative AI art, creating unique and visually striking pieces.
 
-* *
-* *
 
-# ⭐ Client Testimonials
-
-### 1. **"Excellent AI Development"**
-> "Asraf delivered an exceptional AI development project that exceeded my expectations. The final deliverable was flawless, reflecting his keen attention to detail. His responsiveness and communication were outstanding throughout the process. Highly recommended!"  
-> — _zaldy_nuque, United States_
-
-### 2. **"Great Job Solving Code Issues"**
-> "Asraf did a great job and solved every code issue. He was quick, professional, and highly skilled. I couldn't be more satisfied with the results."  
-> — _traineefy, Germany_
-
-### 3. **"Organized and Timely Delivery"**
-> "It was great working with AsrafAsif. Always on-time delivery, understands the requirements well, quick response to queries, flexible and polite. Very organized way of working and gives his best, does not shy away from integrating new features."  
-> — _samadrita96, United Kingdom_
-
-### 4. **"Superb Execution Under Tight Budget"**
-> "Asraf worked fast and professionally. He understood the assignment and delivered as requested. The budget was tight; nonetheless, he performed exceptionally. I wholeheartedly recommend him and hope to work with him again in the future."  
-> — _fabianlechner, Germany_
-
-### 5. **"Top-notch AI Services"**
-> "Great work done by the seller. Very fast and responsive. Helped me deliver a Streamlit App with OpenAI integration to fast-track data mapping for business analysis purposes. I will recommend his service to anyone who is seeking Generative AI service."  
-> — _alankar_gupta, India_
-
-Read more reviews on my [Fiverr Profile](https://www.fiverr.com/asraf2asif_fvrr).
