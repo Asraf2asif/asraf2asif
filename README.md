@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a dedicated AI developer with a passion for tr
 - 🌱 Learning **LangGraph**, **CrewAI**, and **Advanced Prompt Engineering**
 - 👯 Looking to collaborate on **Open-Source AI Projects**
 - 💬 Ask me about **GPT-4**, **LangChain**, **Vector Databases**, **Streamlit**
-- ⚡ Fun fact: I've helped **500+** clients automate their businesses with AI
+- ⚡ Fun fact: I've helped **25+** clients automate their businesses with AI
 
 ---
 
