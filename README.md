@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a dedicated AI developer with a passion for tr
 
 ## 🛠️ Tech Stack & Expertise
 
-<div align="center">
+<div align="left">
 
 ### **Programming Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,12 +55,12 @@ Welcome to my GitHub profile! I'm a dedicated AI developer with a passion for tr
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=tokyonight"/>
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asraf2asif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asraf2asif&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
@@ -68,7 +68,7 @@ Welcome to my GitHub profile! I'm a dedicated AI developer with a passion for tr
 
 ## 🏆 Achievements & Recognition
 
-<div align="center">
+<div align="left">
 
 [![Fiverr Level 2](https://img.shields.io/badge/Fiverr-Level_2_Seller-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/asraf2asif_fvrr)
 ![500+ Projects](https://img.shields.io/badge/Projects_Completed-500+-FF6B6B?style=for-the-badge)
@@ -81,19 +81,19 @@ Welcome to my GitHub profile! I'm a dedicated AI developer with a passion for tr
 
 ## ⭐ Client Testimonials
 
-<div align="center">
+<div align="left">
 
 > ### **"Excellent AI Development"**
 > *"I had the pleasure of working with Asraf, and I couldn't be more impressed with his service. He was incredibly thorough and proactive, always suggesting improvements to enhance the final product."*  
-> **— zaldy_nuque, United States** ⭐⭐⭐⭐⭐
+> **— Buyer from United States** ⭐⭐⭐⭐⭐
 
 > ### **"Superb Execution Under Tight Budget"**
 > *"Asraf worked fast and professional. He understood the assignment and delivered as requested. The budget was tight, none the less he performed exceptionally."*  
-> **— fabianlechner, Germany** ⭐⭐⭐⭐⭐
+> **— Buyer from Germany** ⭐⭐⭐⭐⭐
 
 > ### **"Top-notch AI Services"**
 > *"Great work done by the seller. Very fast and responsive. Helped me deliver a Streamlit App with OpenAI integration for business analysis purposes."*  
-> **— alankar_gupta, India** ⭐⭐⭐⭐⭐
+> **— Buyer from India** ⭐⭐⭐⭐⭐
 
 </div>
 
@@ -120,46 +120,29 @@ Welcome to my GitHub profile! I'm a dedicated AI developer with a passion for tr
 
 ---
 
-## 🎯 Services I Offer
-
-<div align="center">
-
-### 🤖 **AI Development**
-- Custom GPT Applications
-- LangChain Implementations  
-- RAG Systems & Vector DBs
-- AI Agents & Workflows
-
-### 💬 **Chatbot Solutions**
-- Customer Service Bots
-- WhatsApp Integrations
-- Discord/Telegram Bots
-- Voice Assistants
-
-### 🔧 **Web Development**
-- Next.js Applications
-- Streamlit Dashboards
-- API Development
-- Database Integration
-
-### 📊 **Data & Analytics**
-- Data Analysis & Visualization
-- ML Model Development
-- Business Intelligence
-- Automated Reporting
-
-</div>
+### 🎯 **What I Do**
+- 🤖 **AI Development**: Custom GPT applications, LangChain implementations, RAG systems
+- 💬 **Chatbot Solutions**: Customer service bots, WhatsApp integrations, voice assistants  
+- 🌐 **Full-Stack Development**: Next.js applications, API development, database integration
+- 📊 **Data Science**: Analysis, visualization, ML model development, business intelligence
 
 ---
 
 ## 🤝 Let's Collaborate!
 
-I'm always eager to collaborate on projects that push the boundaries of AI technology. Whether you're looking to:
+I'm always eager to collaborate on projects that push the boundaries of AI technology and make complex algorithms accessible to everyone. Whether it's developing cutting-edge AI applications, fine-tuning models, or exploring the latest trends, I'm here to contribute and learn.
 
-- 🚀 **Build cutting-edge AI applications**
-- 🤖 **Develop intelligent chatbots**
-- 📊 **Create data-driven solutions**
-- 🔧 **Integrate AI into existing systems**
+### 💡 **Looking to Collaborate On:**
+- 🚀 **Innovative AI Projects** that drive advancements in machine learning
+- 🔧 **Open-Source AI Tools** that democratize AI for developers
+- 🌟 **Cutting-edge Research** in natural language processing and computer vision
+- 🤖 **AI Automation Solutions** for business process optimization
+
+### 🧠 **Expertise Areas:**
+- 🤖 **AI Development**: From ideation to execution of state-of-the-art AI solutions
+- 💬 **Chatbot Solutions**: Specializing in GPT-4o, Gemini, and Claude AI powered bots
+- 🔍 **AI Model Fine-Tuning**: RAG systems, AI Agents, and Vector Databases
+- 📊 **Data Science**: Advanced analytics, machine learning, and business intelligence
 
 <div align="center">
 
@@ -173,15 +156,9 @@ I'm always eager to collaborate on projects that push the boundaries of AI techn
 
 ---
 
-<div align="center">
+## 🌟 **"Transforming Ideas into AI-Powered Reality"** 🌟
 
-### 🌟 **"Transforming Ideas into AI-Powered Reality"** 🌟
-
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=for-the-badge)
-
-**⭐ Star my repositories if you find them helpful!**
-
-</div>
+[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio_Website-Visit_Now-FF6B6B?style=for-the-badge)]([https://your-portfolio-url.vercel.app](https://asraf2asif-portfolio-fvrr.vercel.app/))
 
 ---
 
