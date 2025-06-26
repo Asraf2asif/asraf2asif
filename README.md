@@ -158,7 +158,7 @@ I'm always eager to collaborate on projects that push the boundaries of AI techn
 
 ## 🌟 **"Transforming Ideas into AI-Powered Reality"** 🌟
 
-[![Portfolio Website](https://img.shields.io/badge/🌐_Portfolio_Website-Visit_Now-FF6B6B?style=for-the-badge)]([https://your-portfolio-url.vercel.app](https://asraf2asif-portfolio-fvrr.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Now-ff6b6b?style=for-the-badge&logo=google-chrome)](https://asraf2asif-portfolio-fvrr.vercel.app)
 
 ---
 
