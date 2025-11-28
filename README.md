@@ -53,19 +53,6 @@ Welcome to my GitHub profile! I'm a dedicated AI developer with a passion for tr
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Asraf2asif&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asraf2asif&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🏆 Achievements & Recognition
 
 <div align="left">
